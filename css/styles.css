@@ -54,15 +54,15 @@
         }
         
         .btn-register {
-            color: white;
-            background-color: hsl(300, 69%, 71%);
-            padding: 12px 60px;
+            color:hsl(300, 69%, 71%);
+            background-color: white;
+            padding: 15px 60px;
             border: none;
             border-radius: 40px;
         }
         
         .btn-register:hover {
-            background-color: white;
+            background-color:hsl(300, 69%, 71%);
             color: hsl(257, 40%, 49%);
             font-weight: bold;
         }
